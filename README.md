@@ -16,19 +16,19 @@ A repository to host educational resources for Hamilton STAR and VENUS software.
 ### Hardware
 * Liquid handling (`STAR Training - Liquid Handling.ppt`)
 * Working with liquid classes (`STA__Liquid Class Determination.ppt`)
-* Measuring Container Volumes (`STA__Measure Container Volume`)
+* Measuring container volumes (`STA__Measure Container Volume`)
 * Pipetting mechanics (`LiquidHandling_WhatAffectPipetting.ppt`)
 ### Advanced
 * Advanced training (`STAR Advanced Training Presentation.ppt`)
 * Firmware commands (`STA__Firmware Commands.ppt`)
-* HSL Basics (`STA__HSL Basics_VenusOne.ppt`)
+* HSL basics (`STA__HSL Basics_VenusOne.ppt`)
 
 <hr>
 
 ## `doc/`
 ### Resources
 * Install VENUS 4 (`Venus 4 Installation.docx`)
-* Starting Run Control from CMD (`STA__Starting HxRun from the command line.doc`)
+* Starting RunControl from CMD (`STA__Starting HxRun from the command line.doc`)
 ### Challenges
 * VENUS challenges (`STU Challenges 2019.doc`)
 * Hands-on challenges (`STU Hands-on.doc`)
